@@ -22,13 +22,6 @@ limitations under the License.
         <img alt="GitHub" src="https://img.shields.io/github/license/huggingface/transformers.svg?color=blue">
     </a>
 
-
-    <a href="https://github.com/huggingface/transformers/releases">
-        <img alt="GitHub release" src="https://img.shields.io/github/release/huggingface/transformers.svg">
-    </a>
-    <a href="https://github.com/huggingface/transformers/blob/master/CODE_OF_CONDUCT.md">
-        <img alt="Contributor Covenant" src="https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg">
-    </a>
 </p>
 
 <h3 align="center">
