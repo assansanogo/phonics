@@ -18,7 +18,7 @@ limitations under the License.
     <a href="">
         <img alt="Build" src="https://img.shields.io/circleci/build/github/huggingface/transformers/master">
     </a>
-    <a href="https://github.com/huggingface/transformers/blob/master/LICENSE">
+    <a href="https://github.com/assansanogo/phonics/edit/main/LICENSE">
         <img alt="GitHub" src="https://img.shields.io/github/license/huggingface/transformers.svg?color=blue">
     </a>
 
